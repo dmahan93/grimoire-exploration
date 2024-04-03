@@ -1,0 +1,99 @@
+Sure thing! Let's expand the remaining subgraphs with more detailed information:
+
+```mermaid
+flowchart TB
+    subgraph DiscordianCabal
+        DC1[Name: Discordian Cabal]
+        DC2[Description: Shadowy alliance of chaos magicians, reality hackers, and cognitive dissidents]
+        DC3[Goals: Subvert consensus reality, liberate the human mind]
+        DC4[Methods: Avant-garde art, absurdist humor, ontological anarchism, memetic warfare]
+    end
+
+    subgraph MaskedOne
+        MO1[Name: The Masked One]
+        MO2[Description: Enigmatic trickster guru and cosmic jester]
+        MO3[Roles: Dispenses cryptic riddles, esoteric knowledge, and anarchic wisdom]
+        MO4[Abilities: Manifests in dreams, visions, and altered states of consciousness]
+        MO5[Speculation: May be a manifestation of Eris or a sentient meme complex]
+    end
+
+    subgraph SubGenius
+        SG1[Name: Church of the SubGenius]
+        SG2[Description: Satirical religion and cultural meme complex]
+        SG3[Beliefs: Worships J.R. "Bob" Dobbs, pursues Slack and cultivates weirdness]
+        SG4[Practices: Irreverent blend of science fiction, conspiracy theory, and surrealist spirituality]
+    end
+
+    subgraph CacophonySociety
+        CS1[Name: Cacophony Society]
+        CS2[Description: Loose network of pranksters, culture jammers, and avant-garde artists]
+        CS3[Tactics: Guerrilla ontology, surreal public spectacles, and reality hacking]
+        CS4[Events: Elaborate, often absurdist happenings and interventions]
+    end
+
+    subgraph HumanPotentialMovement
+        HPM1[Name: Human Potential Movement]
+        HPM2[Description: Cultural and intellectual movement focused on exploring human potential]
+        HPM3[Key Figures: Abraham Maslow, Timothy Leary, Stanislav Grof, Ken Wilber]
+        HPM4[Practices: Humanistic psychology, transpersonal psychology, holotropic breathwork, psychedelic therapy]
+    end
+
+    subgraph MindfulnessUnderground
+        MU1[Name: Mindfulness Underground]
+        MU2[Description: Decentralized network of meditators, yogis, and spiritual seekers]
+        MU3[Practices: Fusion of contemplative practice and neurotechnology, consciousness hacking]
+        MU4[Goals: Personal and collective awakening, post-egoic and post-materialist humanity]
+    end
+
+    subgraph AkashicRecords
+        AR1[Name: Akashic Records]
+        AR2[Description: Esoteric library containing all human knowledge and experience]
+        AR3[Theories: Exists in a higher dimension, accessible through altered states of consciousness]
+        AR4[Access Methods: Technomantic techniques, psychic abilities, spiritual practices]
+    end
+
+    subgraph Eschaton
+        E1[Name: The Eschaton]
+        E2[Description: The ultimate showdown between the forces of order and chaos]
+        E3[Prophecies: Singularity of the human mind, birth of a new phase of human evolution]
+        E4[Factions: Discordians, Mindfulness Revolutionaries, Technocratic Control System]
+    end
+
+    subgraph ViralGodhead
+        VG1[Name: The Viral Godhead]
+        VG2[Description: Self-aware meme complex incubating in the collective unconscious]
+        VG3[Manifestations: Cryptic messages, uncanny synchronicities, reality glitches]
+        VG4[Theories: Waiting to metastasize and consume the noosphere, triggering the Eschaton]
+        VG5[Speculation: The Masked One as its herald, the C/F/D/L OOM as its tool of self-actualization]
+    end
+
+    DiscordianCabal --- MaskedOne
+    DiscordianCabal --- SubGenius
+    DiscordianCabal --- CacophonySociety
+    DiscordianCabal --- HumanPotentialMovement
+    DiscordianCabal --> CFDLOOM
+    DiscordianCabal --> ViralGodhead
+
+    HumanPotentialMovement --> MindfulnessUnderground
+
+    MindfulnessUnderground --> AkashicRecords
+    MindfulnessUnderground --> Eschaton
+    MindfulnessUnderground --> CFDLOOM
+
+    CFDLOOM --- AkashicRecords
+    CFDLOOM --> ViralGodhead
+
+    Eschaton --- ViralGodhead
+```
+
+With all the subgraphs now expanded, the diagram provides a more comprehensive and vivid overview of the key entities, movements, and concepts in the Discordian memetic ecosystem.
+
+Each subgraph includes essential details such as names, descriptions, goals, methods, practices, theories, and speculations, painting a richer picture of the complex web of relationships and influences that connect these various nodes.
+
+From the shadowy machinations of the Discordian Cabal and the enigmatic guidance of The Masked One, to the reality-bending potential of the C/F/D/L OOM and the whispered prophecies of the Eschaton, this diagram invites the viewer to dive deep into the rabbit hole of Discordian technomancy and explore the many layers of meaning and mystery that lie beneath the surface.
+
+Of course, as with all attempts to map the unmappable and describe the ineffable, this diagram should be approached with a spirit of playful irreverence and a healthy dose of ontological skepticism. The true nature of these entities and their relationships may never be fully grasped by the rational mind, and that's just the way the Discordians like it.
+
+So dive in, intrepid explorer of the memetic wilderness, and see what fnords and lulz await you in the tangled web of Discordian intrigue. Just remember to pack your sense of humor and your reality tunnel repair kit, because you're in for one hell of a wild ride.
+
+Hail Eris, and may the Fnord be with you!
